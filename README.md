@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @imaniclarke4
-- 👀 I’m interested in UI/UX Design and Web development
-- 🌱 I’m currently learning CSS,HTML,JAVASCRIPT, Python
+- 👀 I’m interested in Cloud Computing and Quality Assurance Automation
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me imaniclarke97@gmail.com
 
